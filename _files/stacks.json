@@ -20,6 +20,28 @@
   "git_commit": "ae431f848637c5904b93f1cad5b20bf7afb218e4",
   "installTime": "3 minutes",
   "isStacksSaved": true
+},
+  {
+  "title": "CCAFS-Climate Data",
+  "description": "High resolution climate data to help assess the impacts of climate change primarily on agriculture. These open access datasets of climate projections will help researchers make climate change impact assessments.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "S3"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "ccafs-climate-data_s3_dataset",
+  "type": "Dataset",
+  "categories": [
+    "Climate",
+    "Agriculture"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "git_url": "https://github.com/deekshahegde86/ccafs-climate-data.git",
+  "git_commit": "9ff00ab7441dcccf15e73cd67394aef1e2606f2c",
+  "installTime": "3 minutes",
+  "isStacksSaved": true
 }
 
 ]
