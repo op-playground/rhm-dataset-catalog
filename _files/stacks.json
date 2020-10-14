@@ -111,28 +111,6 @@
   "isStacksSaved": true
 },
   {
-  "title": "Hubble Space Telescope Public Data Dataset",
-  "description": "The Hubble Space Telescope (HST) is one of the most productive scientific instruments ever created. This dataset contains calibrated and raw data for all of the currently active instruments on HST: ACS, COS, STIS and WFC3.",
-  "logo": "_images/dataset.png",
-  "enabled": true,
-  "language": [
-    "Dataset",
-    "S3"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "hstpd-dataset",
-  "type": "dataset-s3",
-  "categories": [
-    "Public Dataset"
-  ],
-  "has_dataset": true,
-  "has_api": false,
-  "git_url": "https://github.com/RitushreePurkait/Hubble-Space-Telescope-Public-Data-Dataset.git",
-  "git_commit": "66740a504a7598e813996c1e9c4ec761b94a0694",
-  "installTime": "2 minutes",
-  "isStacksSaved": true
-},
-  {
   "title": "NASA NEX Dataset",
   "description": "A collection of Earth science datasets maintained by NASA, including climate change projections and satellite images of the Earth's surface.",
   "logo": "_images/dataset.png",
