@@ -42,6 +42,29 @@
   "git_commit": "9ff00ab7441dcccf15e73cd67394aef1e2606f2c",
   "installTime": "3 minutes",
   "isStacksSaved": true
+},
+  {
+  "title": "The Cancer Genome Atlas Dataset",
+  "description": "The Cancer Genome Atlas (TCGA), a collaboration between the National Cancer Institute (NCI) and National Human Genome Research Institute (NHGRI), aims to generate comprehensive, multi-dimensional maps of the key genomic changes in major types and subtypes of cancer. TCGA has analyzed matched tumor and normal tissues from 11,000 patients, allowing for the comprehensive characterization of 33 cancer types and subtypes, including 10 rare cancers. The dataset contains open Clinical Supplement, Biospecimen Supplement, RNA-Seq Gene Expression Quantification, miRNA-Seq Isoform Expression Quantification, miRNA Expression Quantification, Genotyping Array Copy Number Segment, Genotyping Array Masked Copy Number Segment, Genotyping Array Gene Level Copy Number Scores, WXS Masked Somatic Mutation, Methylation Array Methylation Beta Value Tissue Slide Image, and Diagnostic Slide Image data from Genomic Data Commons (GDC). This dataset also contains controlled Whole Exome Sequencing (WXS), RNA-Seq, miRNA-Seq, ATAC-Seq Aligned Reads, WXS Annotated Somatic Mutation, WXS Raw Somatic Mutation, and WXS Aggregated Somatic Mutation data from GDC. TCGA is made available on AWS via the NIH STRIDES Initiative.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "Dataset",
+    "S3"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "tcga_dataset",
+  "type": "dataset-s3",
+  "categories": [
+    "Health"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "git_url": "https://github.com/RitushreePurkait/TCGA-dataset.git",
+  "git_commit": "6fa0e73ed46e77fe0e196ad302c8e685f71c7c29",
+  "installTime": "2 minutes",
+  "isStacksSaved": true
 }
+
 
 ]
