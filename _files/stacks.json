@@ -9,7 +9,7 @@
     "S3"
   ],
   "document": "data-logging-stack",
-  "stack_id": "us_hiring_rates_s3_dataset",
+  "stack_id": "us-hiring-rates-dataset",
   "type": "dataset-s3",
   "categories": [
     "Employment"
@@ -30,7 +30,7 @@
     "S3"
   ],
   "document": "data-logging-stack",
-  "stack_id": "ccafs-climate-data_s3_dataset",
+  "stack_id": "ccafs-climate-data-dataset",
   "type": "Dataset",
   "categories": [
     "Climate",
@@ -39,7 +39,7 @@
   "has_dataset": true,
   "has_api": false,
   "git_url": "https://github.com/deekshahegde86/ccafs-climate-data.git",
-  "git_commit": "9ff00ab7441dcccf15e73cd67394aef1e2606f2c",
+  "git_commit": "f6c2a36ae773e8f12b86bf9e179753633d90a37a",
   "installTime": "3 minutes",
   "isStacksSaved": true
 },
@@ -53,7 +53,7 @@
     "S3"
   ],
   "document": "data-logging-stack",
-  "stack_id": "tcga_dataset",
+  "stack_id": "tcga-dataset",
   "type": "dataset-s3",
   "categories": [
     "Health"
@@ -75,7 +75,7 @@
     "S3"
   ],
   "document": "data-logging-stack",
-  "stack_id": "landsat_8_dataset",
+  "stack_id": "landsat-8-dataset",
   "type": "dataset-s3",
   "categories": [
     "Environment"
@@ -97,7 +97,7 @@
     "S3"
   ],
   "document": "data-logging-stack",
-  "stack_id": "noaa_ndfd_dataset",
+  "stack_id": "noaa-ndfd-dataset",
   "type": "dataset-s3",
   "categories": [
     "Environment",
@@ -120,7 +120,7 @@
     "S3"
   ],
   "document": "data-logging-stack",
-  "stack_id": "hstpd_dataset",
+  "stack_id": "hstpd-dataset",
   "type": "dataset-s3",
   "categories": [
     "Public Dataset"
@@ -142,7 +142,7 @@
     "S3"
   ],
   "document": "data-logging-stack",
-  "stack_id": "nasa_nex_dataset",
+  "stack_id": "nasa-nex-dataset",
   "type": "dataset-s3",
   "categories": [
     "Geo Data",
