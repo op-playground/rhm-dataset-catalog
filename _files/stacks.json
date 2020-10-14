@@ -61,7 +61,7 @@
   "has_dataset": true,
   "has_api": false,
   "git_url": "https://github.com/RitushreePurkait/TCGA-dataset.git",
-  "git_commit": "6c91a175590f192d526ab62fd65d938556002f0c",
+  "git_commit": "f7793e06daa30213a0ef091f845f368421eaf75f",
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
@@ -83,7 +83,7 @@
   "has_dataset": true,
   "has_api": false,
   "git_url": "https://github.com/RitushreePurkait/landsat-8-dataset.git",
-  "git_commit": "ab15e54ea76c0623b9678da54dd565f17ae1031",
+  "git_commit": "c0dd954fad46a39187861ef3230d2c1485e44ace",
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
@@ -106,7 +106,30 @@
   "has_dataset": true,
   "has_api": false,
   "git_url": "https://github.com/RitushreePurkait/noaa-ndfd-dataset.git",
-  "git_commit": "32b5d89d542de61d9660d16fdaf2e2bd47d83ec5",
+  "git_commit": "d7617a3ea646893a10e97973f6e5f880218e2edd",
+  "installTime": "2 minutes",
+  "isStacksSaved": true
+},
+  {
+  "title": "NOAA Global Hydro Estimator (GHE) Dataset",
+  "description": "Global Hydro-Estimator provides a global mosaic imagery of rainfall estimates from multi-geostationary satellites, which currently includes GOES-16, GOES-15, Meteosat-8, Meteosat-11 and Himawari-8. The GHE products include: Instantaneous rain rate, 1 hour, 3 hour, 6 hour, 24 hour and also multi-day rainfall accumulation.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "Dataset",
+    "S3"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "noaa-ghe-dataset",
+  "type": "dataset-s3",
+  "categories": [
+    "Environment",
+    "Geo Data"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "git_url": "https://github.com/RitushreePurkait/noaa-ghe-dataset.git",
+  "git_commit": "c6547c772ff66a3a57e25cbb78f357d14f8465ed",
   "installTime": "2 minutes",
   "isStacksSaved": true
 }
