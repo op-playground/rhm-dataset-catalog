@@ -109,29 +109,6 @@
   "git_commit": "32b5d89d542de61d9660d16fdaf2e2bd47d83ec5",
   "installTime": "2 minutes",
   "isStacksSaved": true
-},
-  {
-  "title": "NASA NEX Dataset",
-  "description": "A collection of Earth science datasets maintained by NASA, including climate change projections and satellite images of the Earth's surface.",
-  "logo": "_images/dataset.png",
-  "enabled": true,
-  "language": [
-    "Dataset",
-    "S3"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "nasa-nex-dataset",
-  "type": "dataset-s3",
-  "categories": [
-    "Geo Data",
-    "Environment"
-  ],
-  "has_dataset": true,
-  "has_api": false,
-  "git_url": "https://github.com/RitushreePurkait/NASA-NEX-Dataset.git",
-  "git_commit": "49559180e42708ec71e3ed17c1344513a096ecf9",
-  "installTime": "2 minutes",
-  "isStacksSaved": true
 }
 
 
