@@ -82,7 +82,7 @@
   ],
   "has_dataset": true,
   "has_api": false,
-  "git_url": "https://github.com/RitushreePurkait/landsat-8-dataset.git ",
+  "git_url": "https://github.com/RitushreePurkait/landsat-8-dataset.git",
   "git_commit": "98af14a8d50ce8a6f1545b8dabce2d877c9a644a",
   "installTime": "2 minutes",
   "isStacksSaved": true
