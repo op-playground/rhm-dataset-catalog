@@ -64,6 +64,28 @@
   "git_commit": "6fa0e73ed46e77fe0e196ad302c8e685f71c7c29",
   "installTime": "2 minutes",
   "isStacksSaved": true
+},
+  {
+  "title": "Landsat 8 Dataset",
+  "description": "An ongoing collection of satellite imagery of all land on Earth produced by the Landsat 8 satellite.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "Dataset",
+    "S3"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "landsat_8_dataset",
+  "type": "dataset-s3",
+  "categories": [
+    "Environment"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "git_url": "https://github.com/RitushreePurkait/landsat-8-dataset.git ",
+  "git_commit": "98af14a8d50ce8a6f1545b8dabce2d877c9a644a",
+  "installTime": "2 minutes",
+  "isStacksSaved": true
 }
 
 
