@@ -61,7 +61,7 @@
   "has_dataset": true,
   "has_api": false,
   "git_url": "https://github.com/RitushreePurkait/TCGA-dataset.git",
-  "git_commit": "6fa0e73ed46e77fe0e196ad302c8e685f71c7c29",
+  "git_commit": "6c91a175590f192d526ab62fd65d938556002f0c",
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
@@ -83,7 +83,7 @@
   "has_dataset": true,
   "has_api": false,
   "git_url": "https://github.com/RitushreePurkait/landsat-8-dataset.git",
-  "git_commit": "98af14a8d50ce8a6f1545b8dabce2d877c9a644a",
+  "git_commit": "ab15e54ea76c0623b9678da54dd565f17ae1031",
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
@@ -106,7 +106,7 @@
   "has_dataset": true,
   "has_api": false,
   "git_url": "https://github.com/RitushreePurkait/noaa-ndfd-dataset.git",
-  "git_commit": "a6653c11dd93ee41d38b4fdd9e8288e07d36cfbb",
+  "git_commit": "32b5d89d542de61d9660d16fdaf2e2bd47d83ec5",
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
@@ -128,7 +128,7 @@
   "has_dataset": true,
   "has_api": false,
   "git_url": "https://github.com/RitushreePurkait/Hubble-Space-Telescope-Public-Data-Dataset.git",
-  "git_commit": "6afcaa0d982c1618c867ca98c4b7114e7453229f",
+  "git_commit": "66740a504a7598e813996c1e9c4ec761b94a0694",
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
@@ -151,7 +151,7 @@
   "has_dataset": true,
   "has_api": false,
   "git_url": "https://github.com/RitushreePurkait/NASA-NEX-Dataset.git",
-  "git_commit": "488da79bf64ebb7a01cf037ba16ef42b0b26121c",
+  "git_commit": "49559180e42708ec71e3ed17c1344513a096ecf9",
   "installTime": "2 minutes",
   "isStacksSaved": true
 }
