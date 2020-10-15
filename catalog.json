@@ -18,8 +18,8 @@
       
    },
    "info":{
-      "headerTitle":"Operator Playground.io",
-      "title":"Welcome to Operator-Playground.io",
+      "headerTitle":"Dataset Operator Dashboard",
+      "title":"Welcome to Dataset Operator Dashboard",
       "description":[
          "Operator Playground provides developers with a playground to quick start a stack which comprises of opensource packages. These stacks can be used for developing quick MVPs.",
          "Users can select a pre-built operator stack from the available list or can choose to create a custom operator stack."
