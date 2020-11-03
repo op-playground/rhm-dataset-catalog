@@ -1,4 +1,116 @@
 [
+  {
+  "title": "Audi Autonomous Driving Dataset(A2D2)",
+  "description": "An open multi-sensor dataset for autonomous driving research. This dataset comprises semantically segmented images, semantic point clouds, and 3D bounding boxes. In addition, it contains unlabelled 360 degree camera images, lidar, and bus data for three sequences. We hope this dataset will further facilitate active research and development in AI, computer vision, and robotics for autonomous driving.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "Dataset",
+    "S3"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "a2d2-dataset",
+  "type": "dataset-s3",
+  "categories": [
+    "General"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "git_url": "https://github.com/RitushreePurkait/A2D2-Dataset.git",
+  "git_commit": "3bc11b78f5cd868cf7216cb3e00c0ad1dac3c651 ",
+  "installTime": "2 minutes",
+  "isStacksSaved": true
+},
+  {
+  "title": "Foundation Medicine Adult Cancer Clinical Dataset (FM-AD)",
+  "description": "The Foundation Medicine Adult Cancer Clinical Dataset (FM-AD) is a study conducted by Foundation Medicine Inc (FMI). Genomic profiling data for approximately 18,000 adult patients with a diverse array of cancers was generated using FoundationeOne, FMI's commercially available, comprehensive genomic profiling assay. This dataset contains open Clinical and Biospecimen data.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "Dataset",
+    "S3"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "fm-ad-dataset",
+  "type": "dataset-s3",
+  "categories": [
+    "Health"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "git_url": "https://github.com/RitushreePurkait/FM-AD-Dataset.git",
+  "git_commit": "727c4140d1a3995b03eda2807a40d4a777ee3b84",
+  "installTime": "2 minutes",
+  "isStacksSaved": true
+},
+  {
+  "title": "Multi-Scale Ultra High Resolution (MUR) Sea Surface Temperature (SST) Dataset",
+  "description": "A global, gap-free, gridded, daily 1 km Sea Surface Temperature (SST) dataset created by merging multiple Level-2 satellite SST datasets. Those input datasets include the NASA Advanced Microwave Scanning Radiometer-EOS (AMSR-E), the JAXA Advanced Microwave Scanning Radiometer 2 (AMSR-2) on GCOM-W1, the Moderate Resolution Imaging Spectroradiometers (MODIS) on the NASA Aqua and Terra platforms, the US Navy microwave WindSat radiometer, the Advanced Very High Resolution Radiometer (AVHRR) on several NOAA satellites, and in situ SST observations from the NOAA iQuam project. Data are available from 2002 to present in Zarr format. The original source of the MUR data is the NASA JPL Physical Oceanography DAAC.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "S3",
+    "Dataset"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "mur-sst-dataset",
+  "type": "dataset-s3",
+  "categories": [
+    "Environment"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "git_url": "https://github.com/RitushreePurkait/MUR-SST-dataset.git",
+  "git_commit": "dc104a42b6444d646f7b290f00df6e154a846e8c",
+  "installTime": "2 minutes",
+  "isStacksSaved": true
+},
+  {
+  "title": "COVID-19 Genome Sequence Dataset",
+  "description": "A centralized sequence repository for all strains of novel corona virus (SARS-CoV-2) submitted to the National Center for Biotechnology Information (NCBI). Included are both the original sequences submitted by the principal investigator as well as SRA-processed sequences that require the SRA Toolkit for analysis.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "Dataset",
+    "S3"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "cgs-dataset",
+  "type": "dataset-s3",
+  "categories": [
+    "Covid",
+    "Health"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "git_url": "d3ef2f0ce2d956f9de7ffef2eaf52d22f354b9cd",
+  "git_commit": "https://github.com/RitushreePurkait/CGS-dataset.git",
+  "installTime": "2 minutes",
+  "isStacksSaved": true
+},
+  {
+  "title": "Open City Model (OCM) Dataset",
+  "description": "Open City Model is an initiative to provide cityGML data for all the buildings in the United States. By using other open datasets in conjunction with our own code and algorithms it is our goal to provide 3D geometries for every US building.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "S3",
+    "Dataset"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "ocm-dataset",
+  "type": "dataset-s3",
+  "categories": [
+    "General",
+    "Housing"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "git_url": "https://github.com/RitushreePurkait/OCM-dataset.git",
+  "git_commit": "cd7a83da546fa74581a601c13cae1c34c193cbe8",
+  "installTime": "2 minutes",
+  "isStacksSaved": true
+},
 
   {
   "title": "US Hiring Rates",
