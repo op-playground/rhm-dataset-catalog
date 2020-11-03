@@ -17,7 +17,7 @@
   "has_dataset": true,
   "has_api": false,
   "git_url": "https://github.com/RitushreePurkait/A2D2-Dataset.git",
-  "git_commit": "3bc11b78f5cd868cf7216cb3e00c0ad1dac3c651 ",
+  "git_commit": "3bc11b78f5cd868cf7216cb3e00c0ad1dac3c651",
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
@@ -83,8 +83,8 @@
   ],
   "has_dataset": true,
   "has_api": false,
-  "git_url": "d3ef2f0ce2d956f9de7ffef2eaf52d22f354b9cd",
-  "git_commit": "https://github.com/RitushreePurkait/CGS-dataset.git",
+  "git_url": "https://github.com/RitushreePurkait/CGS-dataset.git",
+  "git_commit": "d3ef2f0ce2d956f9de7ffef2eaf52d22f354b9cd",
   "installTime": "2 minutes",
   "isStacksSaved": true
 },
