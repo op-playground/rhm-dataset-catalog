@@ -129,7 +129,7 @@
   "has_dataset": true,
   "has_api": false,
   "git_url": "https://github.com/op-playground/us-hiring-rates-s3Dataset.git",
-  "git_commit": "480765525fb07b6f66441dae4aff5f5c72a50747",
+  "git_commit": "68a46c549570730bab40b98052c673cef95a739c",
   "installTime": "3 minutes",
   "isStacksSaved": true
 },
