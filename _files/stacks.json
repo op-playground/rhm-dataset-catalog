@@ -1,5 +1,27 @@
 [
   {
+  "title": "The Cancer Genome Atlas Dataset",
+  "description": "The Cancer Genome Atlas (TCGA), a collaboration between the National Cancer Institute (NCI) and National Human Genome Research Institute (NHGRI), aims to generate comprehensive, multi-dimensional maps of the key genomic changes in major types and subtypes of cancer. TCGA has analyzed matched tumor and normal tissues from 11,000 patients, allowing for the comprehensive characterization of 33 cancer types and subtypes, including 10 rare cancers. The dataset contains open Clinical Supplement, Biospecimen Supplement, RNA-Seq Gene Expression Quantification, miRNA-Seq Isoform Expression Quantification, miRNA Expression Quantification, Genotyping Array Copy Number Segment, Genotyping Array Masked Copy Number Segment, Genotyping Array Gene Level Copy Number Scores, WXS Masked Somatic Mutation, Methylation Array Methylation Beta Value Tissue Slide Image, and Diagnostic Slide Image data from Genomic Data Commons (GDC). This dataset also contains controlled Whole Exome Sequencing (WXS), RNA-Seq, miRNA-Seq, ATAC-Seq Aligned Reads, WXS Annotated Somatic Mutation, WXS Raw Somatic Mutation, and WXS Aggregated Somatic Mutation data from GDC. TCGA is made available on AWS via the NIH STRIDES Initiative.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "Dataset",
+    "S3"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "tcga-dataset",
+  "type": "dataset-s3",
+  "categories": [
+    "Health"
+  ],
+  "has_dataset": true,
+  "has_api": false,
+  "git_url": "https://github.com/RitushreePurkait/TCGA-dataset.git",
+  "git_commit": "f7793e06daa30213a0ef091f845f368421eaf75f",
+  "installTime": "2 minutes",
+  "isStacksSaved": true
+},
+  {
   "title": "Audi Autonomous Driving Dataset(A2D2)",
   "description": "An open multi-sensor dataset for autonomous driving research. This dataset comprises semantically segmented images, semantic point clouds, and 3D bounding boxes. In addition, it contains unlabelled 360 degree camera images, lidar, and bus data for three sequences. We hope this dataset will further facilitate active research and development in AI, computer vision, and robotics for autonomous driving.",
   "logo": "_images/dataset.png",
